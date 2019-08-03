@@ -1,6 +1,6 @@
 Gold Price Prediction using ANN 
 
-Authors: 
+Authors:   
 Alejandro Torres  
 Richi Rodriguez  
 Liana Valdes  
